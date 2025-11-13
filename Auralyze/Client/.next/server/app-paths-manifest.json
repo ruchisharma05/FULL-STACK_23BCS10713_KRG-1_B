@@ -1,0 +1,7 @@
+{
+  "/sign-in/page": "app/sign-in/page.js",
+  "/account-settings/page": "app/account-settings/page.js",
+  "/cart-checkout/page": "app/cart-checkout/page.js",
+  "/product/[productID]/page": "app/product/[productID]/page.js",
+  "/page": "app/page.js"
+}
